@@ -1,0 +1,16 @@
+4 Etapas do Pensamento Computacional
+
+1. Decomposição - separar algo grande em partes menores ex. receita de bolo 
+2. Reconhecimento de padrões - padrões de comportamento ex. bolsa despenca, pessoas vendem ações
+3. Abstração - pegar algo particular e torná-lo generalista ex. fórmulas matemáticas
+4. Formação de algoritmos- Automatizar para gerar uma solução de problema passo a passo.
+
+Habilidades Complementares
+
+Raciocínio Lógico - pode ser dividido em:
+Abdução: parte de uma premissa ex. grama molhada
+Dedução: parte de uma teoria ex. o que o Sherlock faz
+Indução: Empirismo ex. criação da pólvora
+
+Aperfeiçoamento - Testar e analisar para usar menos recursos e melhorar o código
+
