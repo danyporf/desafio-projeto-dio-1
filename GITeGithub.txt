@@ -1,0 +1,14 @@
+COMANDOS BÁSICOS DO GIT
+
+git init : Cria um novo repositório local 
+git status :  Verifica estado dos diretórios
+git clone : Pega um repositório da nuvem e o torna local 
+git add . : Adiciona arquivo/diretório
+git add -a : Adiciona arquivo/diretório
+git commit : Comita o arquivo/diretório (repositório local)
+git push : Manda arquivos para o repositório da nuvem
+OBS.: A primeira vez que usa git push ele precisa vir com "origin main" 
+
+GITHUB
+
+É preciso criar uma chave SSH do seu aparelho pra conectar ao Github.
